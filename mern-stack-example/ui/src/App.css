@@ -1,0 +1,27 @@
+*{
+  background-color: cyan;
+}
+.header {
+  width: 100%;
+  background-color: Black !important;
+  color: black;
+  text-align: center;
+  border-bottom:2px solid black ;
+}
+
+.cc{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.mrgnbtm {
+  margin-top: 20px;
+}
+
+.btncenter {
+  text-align: center;
+}
+
+.mrgnttm10 {
+  margin-bottom: 10px;
+}
